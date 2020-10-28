@@ -1,6 +1,6 @@
 ### Hi there, I'm Md. Jidanul Hakim Jitu 👋
 
-[Portfolio Website: ](https://jh-jitu.github.io/Portfolio_Jitu/index.html)
+[Portfolio Website](https://jh-jitu.github.io/Portfolio_Jitu/index.html)
 
 
 ## I'm a web developer, programmer and a student!!
