@@ -1,7 +1,7 @@
 ### Hi there, I'm Md. Jidanul Hakim Jitu 👋
 
-[![Website](https://img.shields.io/website?label=Md Jidanul Hakim Jitu&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jh-jitu.github.io/Portfolio_Jitu/index.html)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jitu_jh001)
+[MD Jidanul Hakim Jitu[Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jh-jitu.github.io/Portfolio_Jitu/index.html)
+[[Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jitu_jh001)
 
 ## I'm a web developer, programmer and a student!!
 
