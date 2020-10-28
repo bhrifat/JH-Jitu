@@ -6,9 +6,9 @@
 
 ## I'm a web developer, programmer and a student!!
 
--  I’m currently learning everything
--  I’m looking to collaborate with other content creators
--  2020 Goals: Contribute more to Open Source projects
+-  All of my projects are well managed and well organized
+-  I’m trying to join a team to get knowledge about team work
+-  2021 Goals: Developing more and more projects and learning new programming languages
 -  Fun fact: I love to play guitar
 -  Education: Reading Computer Science and Engineering at American International University-Bangladesh
 
