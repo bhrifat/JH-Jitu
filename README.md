@@ -1,6 +1,6 @@
 ### Hi there, I'm Md. Jidanul Hakim Jitu 👋
 
-[Portfolio Website](https://jh-jitu.github.io/Portfolio_Jitu/index.html)
+[Portfolio Website](https://jh-jitu.web.app/)
 <br/>
 [Resume of Jitu](https://drive.google.com/file/d/1-3B8qqI42hpwolqwCOCxAf764-b2IsVe/view?fbclid=IwAR2A-A-keUlaVDokPxX-PP0kRbVbxrVnoAe43bqkaLdYfJfti1e6-sIlnYY)
 
